@@ -1,10 +1,10 @@
 name: Clozee
-description: Uma nova forma de se relacionar com o seu guarda-roupas.
+description: Uma nova forma de se relacionar com o seu guarda-roupa.
 full_description: '- Busca inspirações e encontra looks incríveis<br>
-<br>- Faz uma grana extra com aquela peça que está parada no seu guarda-roupas<br>
+<br>- Faz uma grana extra com aquela peça que está parada no seu guarda-roupa<br>
 <br>- Pode comprar com a segurança e praticidade de receber em casa. Tudo que é postado na Clozee está à venda!'
 android: https://play.google.com/store/apps/details?id=br.com.clozee
-iOS: https://telegra.ph/Replace-this-link-07-23
+iOS: https://apps.apple.com/br/app/clozee-comprar-e-vender-roupa/id1558359261
 web: false
 screenshots:
   - A.png
